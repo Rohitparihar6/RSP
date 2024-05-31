@@ -8,7 +8,7 @@ Proficient in system administration, network troubleshooting, and software devel
 
 * 🌍  I'm based in Jabalpur
 * 🖥️  See my portfolio at [www.linkedin.com/in/rohit-singh-parihar-5824a2144](http://www.linkedin.com/in/rohit-singh-parihar-5824a2144)
-* ✉️  You can contact me at [rohitsparihar6@gmail.com](mailto:rohitsparihar6@gmail.com)
+* ✉️  You can contact me at [rohitsparihar6@gmail.com](mailto:rohitsparihar.dev@gmail.com)
 * 🧠  I'm learning Certified Information Systems Security Professional (CISSP)
 * 🤝  I'm open to collaborating on Technical Writing, Documentation.
 * ⚡  human
